@@ -1,6 +1,6 @@
 This Python script is designed to extract a wide range of features from accelerometer data. It imports various standard Python packages and defines several functions to compute statistical, time-domain, wavelet, frequency-domain, and other features from the input accelerometer data. The extracted features are useful for various applications such as activity recognition, health monitoring, and motion analysis.
 
-## Usage
+## Feature creation
 
 1. **Importing Packages**: The script starts by importing standard Python packages such as pandas, numpy, pywt, scipy, and collections.
 
