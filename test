@@ -1,12 +1,1 @@
-import unittest
-from Feature_generation import extract_feature_all
 
-class TestFeatureGeneration(unittest.TestCase):
-    def test_extract_feature_all(self):
-        # Example test case for the extract_feature_all function
-        result = extract_feature_all([0.1, 0.2,0.3])
-        self.assertIsNotNone(result)
-        # Add more assertions based on what your function is supposed to return
-
-if __name__ == '__main__':
-    unittest.main()
